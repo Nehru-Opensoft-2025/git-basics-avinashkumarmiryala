@@ -1,2 +1,1 @@
 text in stash file
-Stash file modified today
